@@ -1,6 +1,6 @@
 # SolidWorks to URDF Exporter #
 
-This repo is forked from Brawner's sw2urdf. Here is his [github](https://github.com/gavanderhoorn/sw2urdf) and [Bitbucket](https://bitbucket.org/brawner/sw2urdf).
+This repo is forked from Brawner's sw2urdf. Here is the [github](https://github.com/gavanderhoorn/sw2urdf) and [Bitbucket](https://bitbucket.org/brawner/sw2urdf) he contributes to.
 
 ## Environment ##
 
