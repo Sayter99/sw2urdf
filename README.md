@@ -22,7 +22,7 @@ ROS: ROS Kinetic
 
 ## Compile Source ##
 
-Three things to be notice:
+Three things to be noticed:
 
 1. Add Reference: add references of **SolidWorks.Interop.sldworks.dll**, **SolidWorks.Interop.swconst.dll**, **SolidWorks.Interop.swpublished.dll**, **solidworkstools.dll** from SolidWorks installation path.
 2. Check SolidWorks Path: make sure the path of SolidWorks in **Project->properties->Debug->Start external program**.
